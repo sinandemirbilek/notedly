@@ -1,5 +1,5 @@
 const Note = require('./note');
-const User = require('./users');
+const User = require('./user');
 const models = {
 Note,
 User
